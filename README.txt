@@ -1,3 +1,2 @@
-Hello, Git
-Hi there
-How are you?
+#Sample Heading
+This is a sample repository for learning purposes.
